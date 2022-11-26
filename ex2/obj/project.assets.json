@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\education\\Vvedtnie_v_programirovanie\\seminar_1\\dz\\ex2\\ex2.csproj",
+      "projectUniqueName": "C:\\education\\Vvedtnie_v_programirovanie\\seminar_1\\HomeWork_C\\ex2\\ex2.csproj",
       "projectName": "ex2",
-      "projectPath": "C:\\education\\Vvedtnie_v_programirovanie\\seminar_1\\dz\\ex2\\ex2.csproj",
+      "projectPath": "C:\\education\\Vvedtnie_v_programirovanie\\seminar_1\\HomeWork_C\\ex2\\ex2.csproj",
       "packagesPath": "C:\\Users\\gorsk\\.nuget\\packages\\",
-      "outputPath": "C:\\education\\Vvedtnie_v_programirovanie\\seminar_1\\dz\\ex2\\obj\\",
+      "outputPath": "C:\\education\\Vvedtnie_v_programirovanie\\seminar_1\\HomeWork_C\\ex2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gorsk\\AppData\\Roaming\\NuGet\\NuGet.Config"
