@@ -1,0 +1,15 @@
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\bin\Debug\net6.0\ex27.exe
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\bin\Debug\net6.0\ex27.deps.json
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\bin\Debug\net6.0\ex27.runtimeconfig.json
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\bin\Debug\net6.0\ex27.dll
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\bin\Debug\net6.0\ex27.pdb
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\obj\Debug\net6.0\ex27.csproj.AssemblyReference.cache
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\obj\Debug\net6.0\ex27.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\obj\Debug\net6.0\ex27.AssemblyInfoInputs.cache
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\obj\Debug\net6.0\ex27.AssemblyInfo.cs
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\obj\Debug\net6.0\ex27.csproj.CoreCompileInputs.cache
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\obj\Debug\net6.0\ex27.dll
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\obj\Debug\net6.0\refint\ex27.dll
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\obj\Debug\net6.0\ex27.pdb
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\obj\Debug\net6.0\ex27.genruntimeconfig.cache
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\ex27\obj\Debug\net6.0\ref\ex27.dll
