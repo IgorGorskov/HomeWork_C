@@ -1,0 +1,15 @@
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\bin\Debug\net6.0\dop_5.exe
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\bin\Debug\net6.0\dop_5.deps.json
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\bin\Debug\net6.0\dop_5.runtimeconfig.json
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\bin\Debug\net6.0\dop_5.dll
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\bin\Debug\net6.0\dop_5.pdb
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\obj\Debug\net6.0\dop_5.csproj.AssemblyReference.cache
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\obj\Debug\net6.0\dop_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\obj\Debug\net6.0\dop_5.AssemblyInfoInputs.cache
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\obj\Debug\net6.0\dop_5.AssemblyInfo.cs
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\obj\Debug\net6.0\dop_5.csproj.CoreCompileInputs.cache
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\obj\Debug\net6.0\dop_5.dll
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\obj\Debug\net6.0\refint\dop_5.dll
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\obj\Debug\net6.0\dop_5.pdb
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\obj\Debug\net6.0\dop_5.genruntimeconfig.cache
+C:\education\Vvedtnie_v_programirovanie\seminar_1\HomeWork_C\dop_5\obj\Debug\net6.0\ref\dop_5.dll
